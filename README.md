@@ -1,4 +1,4 @@
-# Microsoft Copilot Security Assessment — Updated Mentor Evidence Package
+# Microsoft Copilot Security Assessment
 
 **Assessment type:** Authorized application security research  
 **Primary tools:** Burp Suite Community Edition, Subfinder, HTTPX, Browser DevTools  
